@@ -44,7 +44,7 @@ namespace cifraCezar
 
                         string cifrada = cifrar(Convert.ToString(cifra.Text).ToLower(), Convert.ToInt32(chave.Text));
 
-                        res.setText(cifrada);
+                        //res.SetText(cifrada);
 
                         AlertDialog.Builder alert = new AlertDialog.Builder(this);
 

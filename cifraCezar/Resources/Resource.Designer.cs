@@ -53,6 +53,9 @@ namespace cifraCezar
 			// aapt resource value: 0x7f020002
 			public const int logo = 2130837506;
 			
+			// aapt resource value: 0x7f020003
+			public const int menu = 2130837507;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -86,6 +89,9 @@ namespace cifraCezar
 			
 			// aapt resource value: 0x7f050000
 			public const int linearLayout1 = 2131034112;
+			
+			// aapt resource value: 0x7f05000a
+			public const int linearLayout2 = 2131034122;
 			
 			// aapt resource value: 0x7f050008
 			public const int result = 2131034120;
@@ -127,9 +133,6 @@ namespace cifraCezar
 			
 			// aapt resource value: 0x7f040000
 			public const int ApplicationName = 2130968576;
-			
-			// aapt resource value: 0x7f040001
-			public const int nome = 2130968577;
 			
 			static String()
 			{
